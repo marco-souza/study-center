@@ -1,5 +1,5 @@
 {
-  "python.pythonPath": "/usr/local/bin/python3",
+  "python.pythonPath": "/Users/marco/.virtualenvs/python-sandbox/bin/python",
   "python.linting.enabled": true,
   "python.linting.pylintEnabled": true,
   "python.linting.pep8Enabled": true,
