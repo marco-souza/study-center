@@ -45,7 +45,7 @@ Instação:
 
 ```bash
 ...
-export PROJECT_HOME="$HOME/dev/python" # define sua pasta padrão de projetos
+export PROJECT_HOME="$HOME/dev" # define sua pasta padrão de projetos
 source /usr/local/bin/virtualenvwrapper.sh # carrega virtualenvwrapper
 
 ```
