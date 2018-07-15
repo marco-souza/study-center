@@ -3,4 +3,5 @@
 
 def greeting():
     """greeting function."""
-    print("Hello world")
+    a_blah = 89
+    print("Hello world {}".format(a_blah))
