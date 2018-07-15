@@ -1,5 +1,5 @@
-start:
-	. ~/.virtualenvs/python-sandbox/bin/activate
+start: ~/.virtualenvs/python-sandbox
+	source ~/.virtualenvs/python-sandbox/bin/activate
 
-stop:
-	. ~/.virtualenvs/python-sandbox/bin/deactivate
+stop: ~/.virtualenvs/python-sandbox
+	source ~/.virtualenvs/python-sandbox/bin/deactivate
